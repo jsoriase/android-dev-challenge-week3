@@ -1,4 +1,4 @@
-# Put title of your app here
+# MySoothe
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
@@ -10,12 +10,14 @@ App as escribed as in week 3 of #AndroidDevChallenge
 
 
 ## :bulb: Motivation and Context
-I want to try how fast i can deliver a provided design thanks to jetpack compose
+I want to try how fast i can deliver a provided design thanks to jetpack compose. update: it ended up being a battle against xiaomi dark mode not working
 
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">&emsp;<img src="/results/screenshot_3.png" width="260">
+
+<img src="/results/screenshot_4.png" width="260">&emsp;<img src="/results/screenshot_5.png" width="260">&emsp;<img src="/results/screenshot_6.png" width="260">
 
 ## License
 ```
